@@ -6,7 +6,7 @@ Sega Mega Drive development toolkit written in Rust
 
 ## Objectives
 
-- Modern, safe, and fast development environment for the Sega MegaDrive (Genesis)
+- Modern, safe, and fast development environment for the Sega Mega Drive (Genesis)
 - Abstract away the hardware to make development easier
 - Cross-platform development environment
 - Simple and straight-forward build system for ROMs
