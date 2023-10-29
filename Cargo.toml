@@ -1,0 +1,13 @@
+[package]
+name = "ages"
+authors = ["Erik Rogers <ewrogers@gmail.com>"]
+description = "Sega Mega Drive development toolkit"
+repository = "https://github.com/UnderLogic/ages"
+readme = "README.md"
+license = "MIT"
+version = "0.0.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
