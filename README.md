@@ -1,6 +1,9 @@
 # ages
 
-![General badge](https://img.shields.io/crates/v/ages?style=for-the-badge&color=%232d6cb1)
+[![crates.io][crate-badge]][crate]
+
+[crate]: https://crates.io/crates/ages
+[crate-badge]: https://img.shields.io/crates/v/ages?style=for-the-badge&color=%232d6cb1
 
 Sega Mega Drive development toolkit written in Rust
 
